@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    Link_list_Examples();
     return 0;
 }
