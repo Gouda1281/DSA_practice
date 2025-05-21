@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1747797425 source:c:\study\dsa_practice\dsa_practice\dsa_practice\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1747797401 source:c:\study\dsa_practice\dsa_practice\dsa_practice\linklist_functions.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1747796893 c:\study\dsa_practice\dsa_practice\dsa_practice\header.h
+	<stdlib.h>
+
